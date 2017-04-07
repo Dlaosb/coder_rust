@@ -1,0 +1,34 @@
+{
+  "name": "coder_rust",
+  "version": "1.0.0",
+  "description": "Data Structures, Algorithms and Unit Testing",
+  "main": "NA",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dlaosb/coder_rust.git"
+  },
+  "keywords": [
+    "Data",
+    "Structures"
+  ],
+  "author": "Daniel Lao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dlaosb/coder_rust/issues"
+  },
+  "homepage": "https://github.com/Dlaosb/coder_rust#readme",
+  "dependencies": {
+    "eslint": "^3.19.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}
